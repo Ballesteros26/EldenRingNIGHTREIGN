@@ -1,0 +1,724 @@
+    ../_unknown/sd_2465360869696634622.bnk #s53 #e  #v -16.0dB  ##436750769.wem
+    ../_unknown/sd_2465360869696634622.bnk #s99 #e  #v -13.0dB  ##948970130.wem
+    ../_unknown/sd_2465360869696634622.bnk #s32 #e  #v -13.0dB  ##271790816.wem  ##fade
+    ../_unknown/sd_2465360869696634622.bnk #s35 #e  #v -11.5dB  ##281839538.wem
+     ../_unknown/sd_2465360869696634622.bnk #s10 #i  #v -16.0dB  ##57197035.wem
+     ../_unknown/sd_2465360869696634622.bnk #s16 #i  #v -15.0dB  ##109156327.wem
+     ../_unknown/sd_2465360869696634622.bnk #s107 #i  #v -20.0dB  ##1020908432.wem
+     ../_unknown/sd_2465360869696634622.bnk #s27 #i  #v -18.0dB  ##249081065.wem
+     ../_unknown/sd_2465360869696634622.bnk #s24 #i  #v -16.0dB  ##214207213.wem
+    group = -R5>- #@loop
+   group = -R5>1
+    ../_unknown/sd_2465360869696634622.bnk #s40 #i  #v -7.0dB  ##304743896.wem
+    ../_unknown/sd_2465360869696634622.bnk #s68 #i  #v -7.0dB  ##556796262.wem
+    ../_unknown/sd_2465360869696634622.bnk #s51 #i  #v -7.0dB  ##383121452.wem
+    ../_unknown/sd_2465360869696634622.bnk #s101 #i  #v -4.0dB  ##970446723.wem
+   group = -R4>1
+  group = -L2 #@layer-v
+  ../_unknown/sd_2465360869696634622.bnk #s87 #e  #v -12.0dB  ##850336703.wem
+ group = -L2 #@layer-v
+  ../_unknown/sd_2465360869696634622.bnk #s81 #e  #v -12.0dB  ##787914578.wem
+    ../_unknown/sd_2465360869696634622.bnk #s40 #i  #v -7.0dB  ##304743896.wem
+    ../_unknown/sd_2465360869696634622.bnk #s68 #i  #v -7.0dB  ##556796262.wem
+    ../_unknown/sd_2465360869696634622.bnk #s51 #i  #v -7.0dB  ##383121452.wem
+    ../_unknown/sd_2465360869696634622.bnk #s101 #i  #v -4.0dB  ##970446723.wem
+   group = -R4>1
+    ../_unknown/sd_2465360869696634622.bnk #s53 #e  #v -16.0dB  ##436750769.wem
+    ../_unknown/sd_2465360869696634622.bnk #s30 #e  #v -13.0dB  ##259346477.wem
+    ../_unknown/sd_2465360869696634622.bnk #s100 #e  #v -13.0dB  ##968762347.wem  ##fade
+    ../_unknown/sd_2465360869696634622.bnk #s3 #e  #v -11.5dB  ##16593124.wem
+     ../_unknown/sd_2465360869696634622.bnk #s95 #i  #v -16.0dB  ##916849544.wem
+     ../_unknown/sd_2465360869696634622.bnk #s67 #i  #v -15.0dB  ##544636871.wem
+     ../_unknown/sd_2465360869696634622.bnk #s48 #i  #v -20.0dB  ##363821448.wem
+     ../_unknown/sd_2465360869696634622.bnk #s4 #i  #v -18.0dB  ##20155627.wem
+     ../_unknown/sd_2465360869696634622.bnk #s71 #i  #v -16.0dB  ##584518483.wem
+    group = -R5>- #@loop
+   group = -R5>1
+  group = -L2 #@layer-v
+ group = -L2 #@layer-v
+    ../_unknown/sd_2465360869696634622.bnk #s40 #i  #v -7.0dB  ##304743896.wem
+    ../_unknown/sd_2465360869696634622.bnk #s68 #i  #v -7.0dB  ##556796262.wem
+    ../_unknown/sd_2465360869696634622.bnk #s51 #i  #v -7.0dB  ##383121452.wem
+    ../_unknown/sd_2465360869696634622.bnk #s101 #i  #v -4.0dB  ##970446723.wem
+   group = -R4>1
+    ../_unknown/sd_2465360869696634622.bnk #s53 #e  #v -16.0dB  ##436750769.wem
+    ../_unknown/sd_2465360869696634622.bnk #s57 #e  #v -13.0dB  ##452040156.wem
+    ../_unknown/sd_2465360869696634622.bnk #s52 #e  #v -13.0dB  ##406108990.wem  ##fade
+    ../_unknown/sd_2465360869696634622.bnk #s64 #e  #v -11.5dB  ##500383018.wem
+     ../_unknown/sd_2465360869696634622.bnk #s45 #i  #v -16.0dB  ##360419444.wem
+     ../_unknown/sd_2465360869696634622.bnk #s50 #i  #v -15.0dB  ##369065243.wem
+     ../_unknown/sd_2465360869696634622.bnk #s47 #i  #v -20.0dB  ##363301254.wem
+     ../_unknown/sd_2465360869696634622.bnk #s69 #i  #v -18.0dB  ##563493014.wem
+     ../_unknown/sd_2465360869696634622.bnk #s86 #i  #v -16.0dB  ##845176460.wem
+    group = -R5>- #@loop
+   group = -R5>1
+  group = -L2 #@layer-v
+  ../_unknown/sd_2465360869696634622.bnk #s63 #e  #v -12.0dB  ##487180782.wem
+ group = -L2 #@layer-v
+   ../_unknown/sd_2465360869696634622.bnk #s53 #e  #v -12.0dB  ##436750769.wem
+   ../_unknown/sd_2465360869696634622.bnk #s65 #e  #v -9.0dB  ##502954862.wem
+   ../_unknown/sd_2465360869696634622.bnk #s31 #e  #v -9.0dB  ##270733917.wem  ##fade
+   ../_unknown/sd_2465360869696634622.bnk #s9 #e  #v -7.5dB  ##44715757.wem
+    ../_unknown/sd_2465360869696634622.bnk #s70 #i  #v -12.0dB  ##571720070.wem
+    ../_unknown/sd_2465360869696634622.bnk #s33 #i  #v -11.0dB  ##275903247.wem
+    ../_unknown/sd_2465360869696634622.bnk #s38 #i  #v -16.0dB  ##290048581.wem
+    ../_unknown/sd_2465360869696634622.bnk #s94 #i  #v -14.0dB  ##906021063.wem
+    ../_unknown/sd_2465360869696634622.bnk #s103 #i  #v -12.0dB  ##980582150.wem
+   group = -R5>- #@loop
+  group = -R5>1
+   ../_unknown/sd_2465360869696634622.bnk #s40 #i  #v -3.0dB  ##304743896.wem
+   ../_unknown/sd_2465360869696634622.bnk #s68 #i  #v -3.0dB  ##556796262.wem
+   ../_unknown/sd_2465360869696634622.bnk #s51 #i  #v -3.0dB  ##383121452.wem
+   ../_unknown/sd_2465360869696634622.bnk #s101 #i  ##970446723.wem
+  group = -R4>1
+ group = -L2 #@layer-v
+  ../_unknown/sd_2465360869696634622.bnk #s60 #e  #v -12.0dB  ##467614917.wem
+    ../_unknown/sd_2465360869696634622.bnk #s53 #e  #v -19.0dB  ##436750769.wem
+    ../_unknown/sd_2465360869696634622.bnk #s28 #e  #v -16.0dB  ##249431579.wem
+    ../_unknown/sd_2465360869696634622.bnk #s13 #e  #v -16.0dB  ##71870557.wem  ##fade
+    ../_unknown/sd_2465360869696634622.bnk #s80 #e  #v -14.5dB  ##772782465.wem
+     ../_unknown/sd_2465360869696634622.bnk #s21 #i  #v -19.0dB  ##194217090.wem
+     ../_unknown/sd_2465360869696634622.bnk #s102 #i  #v -18.0dB  ##977358761.wem
+     ../_unknown/sd_2465360869696634622.bnk #s104 #i  #v -23.0dB  ##992946883.wem
+     ../_unknown/sd_2465360869696634622.bnk #s85 #i  #v -21.0dB  ##826978563.wem
+     ../_unknown/sd_2465360869696634622.bnk #s83 #i  #v -19.0dB  ##802186965.wem
+    group = -R5>- #@loop
+   group = -R5>1
+    ../_unknown/sd_2465360869696634622.bnk #s40 #i  #v -10.0dB  ##304743896.wem
+    ../_unknown/sd_2465360869696634622.bnk #s68 #i  #v -10.0dB  ##556796262.wem
+    ../_unknown/sd_2465360869696634622.bnk #s51 #i  #v -10.0dB  ##383121452.wem
+    ../_unknown/sd_2465360869696634622.bnk #s101 #i  #v -7.0dB  ##970446723.wem
+   group = -R4>1
+  group = -L2 #@layer-v
+ group = -L2 #@layer-v
+group = -R5>1
+
+
+
+# AUTOGENERATED WITH WWISER v20250928
+#
+# cs_c4901-0491-event {s} {r} {m}.txtp
+# * master volume: auto (-17.5dB)
+# - _unknown/sd_2465360869696634622.bnk
+#
+# PATH
+#   CAkEvent[491] 1694178500
+#
+#     CAkActionPlay[490] 320648370
+#
+#       CAkRanSeqCntr[346] 826436375
+#       * sLoopCount: 1
+#       * eMode: 0x00 [Random]
+#       * eRandomMode: 0x00 [Normal]
+#       * sLoopCount: 1
+#       * bIsContinuous: 0
+#       * wAvoidRepeatCount: 1
+#
+#         CAkLayerCntr[326] 258293936
+#         * bIsContinuousValidation: 0x00
+#
+#           CAkLayerCntr[324] 92164993
+#           * bIsContinuousValidation: 0x00
+#
+#             CAkRanSeqCntr[318] 178626637
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[315] 702118667
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 436750769
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[316] 738663113
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 948970130
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[314] 693733574
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 271790816
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[317] 803319581
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 281839538
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkRanSeqCntr[313] 446187566
+#               * sLoopCount: 0
+#               * eMode: 0x00 [Random]
+#               * eRandomMode: 0x00 [Normal]
+#               * sLoopCount: 0
+#               * bIsContinuous: 1
+#               * wAvoidRepeatCount: 2
+#
+#                 CAkSound[308] 172428193
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 57197035
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[309] 339871517
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 109156327
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[310] 436542260
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 1020908432
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[311] 507333612
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 249081065
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[312] 807160457
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 214207213
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#             CAkRanSeqCntr[323] 669053118
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[322] 254923846
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 304743896
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[320] 147089878
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 556796262
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[321] 196566711
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 383121452
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[319] 58184982
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 970446723
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#           CAkSound[325] 769614172
+#           * [Loop]: 0
+#           * StreamType: 0x00 [Data/bnk]
+#
+#             Source 850336703
+#             * ulPluginID: 0x00040001 [VORBIS]
+#
+#         CAkLayerCntr[289] 79968584
+#         * bIsContinuousValidation: 0x00
+#
+#           CAkSound[271] 55042958
+#           * [Loop]: 0
+#           * StreamType: 0x00 [Data/bnk]
+#
+#             Source 787914578
+#             * ulPluginID: 0x00040001 [VORBIS]
+#
+#           CAkLayerCntr[288] 55295723
+#           * bIsContinuousValidation: 0x00
+#
+#             CAkRanSeqCntr[276] 213246439
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[272] 35693329
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 304743896
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[274] 723350303
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 556796262
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[275] 743071426
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 383121452
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[273] 362051339
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 970446723
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#             CAkRanSeqCntr[287] 347918658
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[286] 910984997
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 436750769
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[285] 699326498
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 259346477
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[284] 576321315
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 968762347
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[277] 86641552
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 16593124
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkRanSeqCntr[283] 413153578
+#               * sLoopCount: 0
+#               * eMode: 0x00 [Random]
+#               * eRandomMode: 0x00 [Normal]
+#               * sLoopCount: 0
+#               * bIsContinuous: 1
+#               * wAvoidRepeatCount: 2
+#
+#                 CAkSound[282] 1005109414
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 916849544
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[279] 410859437
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 544636871
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[280] 655870205
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 363821448
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[278] 107151802
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 20155627
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[281] 810704133
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 584518483
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#         CAkLayerCntr[270] 58383477
+#         * bIsContinuousValidation: 0x00
+#
+#           CAkLayerCntr[268] 26600608
+#           * bIsContinuousValidation: 0x00
+#
+#             CAkRanSeqCntr[256] 612671352
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[254] 612486453
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 304743896
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[255] 630900719
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 556796262
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[253] 366587123
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 383121452
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[252] 31251925
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 970446723
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#             CAkRanSeqCntr[267] 639549304
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[263] 352969779
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 436750769
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[265] 392465390
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 452040156
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[264] 356366292
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 406108990
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[266] 1062089966
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 500383018
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkRanSeqCntr[262] 78431808
+#               * sLoopCount: 0
+#               * eMode: 0x00 [Random]
+#               * eRandomMode: 0x00 [Normal]
+#               * sLoopCount: 0
+#               * bIsContinuous: 1
+#               * wAvoidRepeatCount: 2
+#
+#                 CAkSound[259] 749678568
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 360419444
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[257] 481554312
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 369065243
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[261] 982856922
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 363301254
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[258] 657264607
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 563493014
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[260] 873156749
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 845176460
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#           CAkSound[269] 518240744
+#           * [Loop]: 0
+#           * StreamType: 0x00 [Data/bnk]
+#
+#             Source 487180782
+#             * ulPluginID: 0x00040001 [VORBIS]
+#
+#         CAkLayerCntr[307] 152049908
+#         * bIsContinuousValidation: 0x00
+#
+#           CAkLayerCntr[306] 654331088
+#           * bIsContinuousValidation: 0x00
+#
+#             CAkRanSeqCntr[300] 651043307
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[298] 648129239
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 436750769
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[290] 82054476
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 502954862
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[299] 939371576
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 270733917
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[297] 645339700
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 44715757
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkRanSeqCntr[296] 630017686
+#               * sLoopCount: 0
+#               * eMode: 0x00 [Random]
+#               * eRandomMode: 0x00 [Normal]
+#               * sLoopCount: 0
+#               * bIsContinuous: 1
+#               * wAvoidRepeatCount: 2
+#
+#                 CAkSound[295] 957519325
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 571720070
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[293] 554522827
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 275903247
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[294] 687899413
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 290048581
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[291] 503099143
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 906021063
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[292] 547858978
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 980582150
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#             CAkRanSeqCntr[305] 986857137
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[303] 618930693
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 304743896
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[301] 81004221
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 556796262
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[302] 194145767
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 383121452
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[304] 787912175
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 970446723
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#         CAkLayerCntr[345] 286947210
+#         * bIsContinuousValidation: 0x00
+#
+#           CAkSound[327] 325354561
+#           * [Loop]: 0
+#           * StreamType: 0x00 [Data/bnk]
+#
+#             Source 467614917
+#             * ulPluginID: 0x00040001 [VORBIS]
+#
+#           CAkLayerCntr[344] 872411744
+#           * bIsContinuousValidation: 0x00
+#
+#             CAkRanSeqCntr[338] 180134958
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[328] 228811259
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 436750769
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[337] 956120862
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 249431579
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[329] 669603524
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 71870557
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[330] 839114008
+#               * [Loop]: 0
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 772782465
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkRanSeqCntr[336] 903293668
+#               * sLoopCount: 0
+#               * eMode: 0x00 [Random]
+#               * eRandomMode: 0x00 [Normal]
+#               * sLoopCount: 0
+#               * bIsContinuous: 1
+#               * wAvoidRepeatCount: 2
+#
+#                 CAkSound[335] 991300588
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 194217090
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[331] 212004152
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 977358761
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[332] 405731428
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 992946883
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[334] 433789893
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 826978563
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#                 CAkSound[333] 422202877
+#                 * StreamType: 0x00 [Data/bnk]
+#
+#                   Source 802186965
+#                   * ulPluginID: 0x00040001 [VORBIS]
+#
+#             CAkRanSeqCntr[343] 278026558
+#             * sLoopCount: 1
+#             * eMode: 0x00 [Random]
+#             * eRandomMode: 0x00 [Normal]
+#             * sLoopCount: 1
+#             * bIsContinuous: 0
+#             * wAvoidRepeatCount: 1
+#
+#               CAkSound[340] 557581252
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 304743896
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[341] 589886246
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 556796262
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[339] 277099284
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 383121452
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#               CAkSound[342] 744138038
+#               * StreamType: 0x00 [Data/bnk]
+#
+#                 Source 970446723
+#                 * ulPluginID: 0x00040001 [VORBIS]
+#
+#
+# STATECHUNKS
+# - ulStateGroupID: (392736999=3743575170) <[Volume]: -400.0>
+# - ulStateGroupID: (550967736=1416847116) <[LPF]: 60.0, [BusVolume]: -3.0>
+# - ulStateGroupID: (550967736=1596679782) <[LPF]: 60.0, [BusVolume]: -400.0>
+# - ulStateGroupID: (2893483249=979470758) <[BusVolume]: -108.0>
+#
+# GAMEVARS
+# - RTPCID: {doppler=0.0,200.0} <[Volume]: -4.717179996188598,0.0> (default 0.0: -4.717179996188598)
+# - RTPCID: {doppler=0.0,200.0} <[Volume]: -3.610380034588054,0.0> (default 0.0: -3.610380034588054)
+# - RTPCID: {doppler=0.0,200.0} <[Volume]: -12.386299255497393,0.0> (default 0.0: -12.386299255497393)
+# - RTPCID: {195788603=-48.0,0.0} <[BusVolume]: 0.0,-5.9999999741828> (default -48.0: 0.0)
+# - RTPCID: {247135359=-48.0,0.0} <[Volume]: 0.0,-12.000000253286988> (default -48.0: 0.0)
+# - RTPCID: {560139250=0.0,1.0} <[BusVolume]: -96.3,0.0> (default 1.0: 0.0)
+# - RTPCID: {1329722345=0.0,1.0} <[Volume]: 0.0,-96.3> (default 0.0: 0.0)
+# - RTPCID: {1645612460=-48.0,0.0} <[BusVolume]: 0.0,-2.000000077474586> (default -48.0: 0.0)
+# - RTPCID: {1645612461=-48.0,0.0} <[BusVolume]: 0.0,-5.9999999741828> (default -48.0: 0.0)
+# - RTPCID: {2326865655=0.0,1.0} <[BusVolume]: 0.0,0.0> (default 0.0: 0.0)
+# - RTPCID: {2918011349=0.0,1.0} <[BusVolume]: -96.3,0.0> (default 1.0: 0.0)
+# - RTPCID: {3362400191=0.0,1.0} <[Volume]: -96.3,0.0> (default 1.0: 0.0)
